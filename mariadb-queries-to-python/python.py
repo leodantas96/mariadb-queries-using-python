@@ -8,7 +8,7 @@
 # ************************** Correr os queries de bases de dados do ficheiro myMariaDB.py ********************************
 
 # Fazemos import do myMariaDB
-from myMariaDB import *
+from myMaria import *
 
 
 # para criar uma query com várias linhas numa única string, iniciamo-la com 3 aspas e fechamo-la com 3 aspas
